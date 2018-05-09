@@ -59,10 +59,17 @@
 * Εμφάνιση των στοιχείων μου (username: p15zach1, avatar) με κάποια κίνηση στην [ιστοσελίδα](https://ioniodi.github.io/D3js-uk-political-donations/participants/) με τους φοιτητές της άσκησης, τροποποιώντας το αρχείο [index.html](https://github.com/ioniodi/D3js-uk-political-donations/blob/master/participants/index.html) στο κοινό αποθετήριο του κώδικα
 
 ## Ενδεικτικές Οθόνες:  
+Αλλαγή χρωμάτων  
 ![new bitmap image](https://user-images.githubusercontent.com/22659306/39828446-af5e9416-53c3-11e8-9bf8-5307c57e0c57.jpg)  
+  
+
 ![new bitmap image 4](https://user-images.githubusercontent.com/22659306/39828476-d1d8eb4a-53c3-11e8-82a8-74d944f2de4f.jpg)  
 ![new bitmap image 2](https://user-images.githubusercontent.com/22659306/39828469-cdf219ca-53c3-11e8-83b2-d59944d86f99.jpg)  
 ![new bitmap image 3](https://user-images.githubusercontent.com/22659306/39828473-cf1c7430-53c3-11e8-975a-98c6b40a33fa.jpg)  
 ![new bitmap image 5](https://user-images.githubusercontent.com/22659306/39829561-902d5baa-53c7-11e8-9fc3-3c6e254bbe09.jpg) 
+
+
+## Συμπεράσματα:  
+
 
 ## Bιβλιογραφία και σύνδεσμοι σε σχετικές εργασίες:  
